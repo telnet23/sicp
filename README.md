@@ -1,0 +1,1 @@
+Solutions to selected exercises from the book [*Structure and Interpretation of Computer Programs*](https://mitpress.mit.edu/sites/default/files/sicp/index.html) by Harold Abelson, Gerald Sussman and Julie Sussman
